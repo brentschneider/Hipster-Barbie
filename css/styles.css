@@ -1,0 +1,37 @@
+/********************
+YOUR STYLES
+*******************/
+
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.center {
+  text-align: center;
+}
+
+.pad30 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: block;
+}
+
+/********************
+MEDIA QUERIES
+*******************/
+
+/* Desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Tablet */
+@media (min-width: 768px) {
+
+}
+
+/* Mobile */
+@media (min-width: 480px) {
+
+}
